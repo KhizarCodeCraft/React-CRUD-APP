@@ -1,3 +1,15 @@
+## <p align="center"> Add User Data</p>
+![Add User Data](https://github.com/coder-khizar/React-CRUD-APP/blob/main/Add_data.png?raw=true)
+
+## <p align="center"> Update User Data</p>
+![Update User Data](https://github.com/coder-khizar/React-CRUD-APP/blob/main/Update_User_data.png?raw=true)
+
+## <p align="center"> View User Data</p>
+![View User Data](https://github.com/coder-khizar/React-CRUD-APP/blob/main/View_User_data.png?raw=true)
+
+## <p align="center"> View All User Data</p>
+![View All User Data](https://github.com/coder-khizar/React-CRUD-APP/blob/main/All_data.png?raw=true)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
